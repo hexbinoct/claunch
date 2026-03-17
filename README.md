@@ -5,7 +5,7 @@ A small CLI tool that helps launch Claude Code from a remembered list of directo
 ## Installation
 
 ```
-pip install -e .
+pip install ailaunch
 ```
 
 ## Usage
