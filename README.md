@@ -13,7 +13,7 @@ pip install -e .
 ```
 claunch [-- <claude args>]
 ```
-
+How can you pass cli arguments to claude when you launch it through claunch?
 Anything after `--` is forwarded directly to the `claude` process.
 
 ## Picker controls
